@@ -1,0 +1,6 @@
+
+server:
+  port: 31337
+
+greetings:
+  name: "Ola"
